@@ -1,0 +1,14 @@
+body{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+@font-face {
+    font-family: headerfont;
+    src: url('../fonts/Lobster_1.3.otf');
+}
+
+header {
+    font-weight: bold;
+}
